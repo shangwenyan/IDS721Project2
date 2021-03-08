@@ -1,5 +1,5 @@
 # IDS721Project2
-This project demonstrates a simple Docker container application written in Python that returns Hello <string you pass in>
+This project demonstrates a simple Docker container application written in Python that returns Hello + string you pass in
   
 # Build image
 run: docker build --tag=hello .
